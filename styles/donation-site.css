@@ -1,0 +1,10 @@
+/* header portion */
+* {
+    margin: 0;
+}
+.header{
+    background-image: url(/images/donation11.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
